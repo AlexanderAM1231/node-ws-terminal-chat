@@ -1,0 +1,6 @@
+{
+  "name": "node-ws-terminal-chat",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.js"
+}
